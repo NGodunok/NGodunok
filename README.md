@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @NGodunok
+# <mark>Welcome</mark>
+> 👋 Hi, I’m Natan Godunok  
 I am an Information Technology Bachelors student.
 
-<u>Learn more:</u>  
+<ins>Learn more:</ins>  
 [Biography](https://github.com/NGodunok/NGodunok/blob/main/BIO.md)  
 [Resume](https://github.com/NGodunok/NGodunok/blob/main/RESUME.md)  
 <br></br>
-<u>Contact me:</u>  
+<ins>Contact me:</ins>  
 Business Email: ApexGnRLLC@outlook.com
